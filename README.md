@@ -69,3 +69,10 @@ Throughout development, I actively utilized AI tools to:
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeanChiuGit&theme=tokyonight&hide_border=true" />
 </p>
+
+
+<p align="center"><em>
+🧠 "You must look at the problem from a different angle."<br>
+— <strong>The Witness</strong><br><br>
+🎮 Sean Shiang-Ruei Chiu · Indie Game Explorer
+</em></p>
