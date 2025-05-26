@@ -9,16 +9,16 @@
 
 ## 🚀 Projects
 
-### 🎯 [Wavelength](https://github.com/SeanChiuGit/wavelength)  
+### 🎯 [Wavelength]((https://wavelength-game.netlify.app/))  
 A multiplayer guessing game with a semicircle scale and clue system. Firebase-powered sync and smooth UI animation.  
 **Difficulty**: 🟩⬜⬜⬜⬜
 
 
-### 🧠 [TCube](https://github.com/SeanChiuGit/tcube)  
+### 🧠 [TCube]((https://tcube-game.netlify.app/))  
 Turn-based strategy with unique fade-out mechanic. Includes AI logic, turn timer, and online real-time sync.  
 **Difficulty**: 🟩🟩🟩🟩⬜
 
-### 🦖 [Dino Dash](https://github.com/SeanChiuGit/dino-dash)  
+### 🦖 [Dino Dash](https://seanchiuitch.itch.io/dinodash)
 A Pygame bullet-hell platformer with stamina, boss mechanics, and level timing. Polished UX and game restart logic.  
 **Difficulty**: 🟩🟩⬜⬜⬜
 
@@ -26,7 +26,7 @@ A Pygame bullet-hell platformer with stamina, boss mechanics, and level timing. 
 An online Go game with complete rule logic (ko, suicide, scoring), Firebase multiplayer, and undo/replay system.  
 **Difficulty**: 🟩🟩🟩🟩⬜
 
-### ♜ Blind Chess (UI/Art Design)  
+### ♜ [Blind Chess (UI/Art Design)] (https://chesscarnival.netlify.app/)
 A hidden-information chess variant featuring minimal dark theme, hidden king mode, and intuitive UI with art direction.  
 **Difficulty**: 🟩🟩🟩🟩⬜
 ---
