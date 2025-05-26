@@ -11,7 +11,8 @@
 
 ### 🎯 [Wavelength](https://github.com/SeanChiuGit/wavelength)  
 A multiplayer guessing game with a semicircle scale and clue system. Firebase-powered sync and smooth UI animation.  
-**Difficulty**: 🟩🟩🟩⬜⬜
+**Difficulty**: 🟩⬜⬜⬜⬜
+
 
 ### 🧠 [TCube](https://github.com/SeanChiuGit/tcube)  
 Turn-based strategy with unique fade-out mechanic. Includes AI logic, turn timer, and online real-time sync.  
@@ -19,7 +20,7 @@ Turn-based strategy with unique fade-out mechanic. Includes AI logic, turn timer
 
 ### 🦖 [Dino Dash](https://github.com/SeanChiuGit/dino-dash)  
 A Pygame bullet-hell platformer with stamina, boss mechanics, and level timing. Polished UX and game restart logic.  
-**Difficulty**: 🟩🟩🟩🟩🟩
+**Difficulty**: 🟩🟩⬜⬜⬜
 
 ### ⚫⚪ [Go Chess Online](https://github.com/SeanChiuGit/gochessonline)  
 An online Go game with complete rule logic (ko, suicide, scoring), Firebase multiplayer, and undo/replay system.  
@@ -27,8 +28,7 @@ An online Go game with complete rule logic (ko, suicide, scoring), Firebase mult
 
 ### ♜ Blind Chess (UI/Art Design)  
 A hidden-information chess variant featuring minimal dark theme, hidden king mode, and intuitive UI with art direction.  
-**Difficulty**: 🟩🟩⬜⬜⬜
-
+**Difficulty**: 🟩🟩🟩🟩⬜
 ---
 
 ## 🤖 How I Use AI Assistance
@@ -58,7 +58,7 @@ Throughout development, I actively utilized AI tools to:
 
 ## 📫 Contact
 
-- 🌐 [Personal Website](https://seanchiugit.github.io/个人网站)
+- 🌐 [Game Portfolio Site](https://seanchiugit.github.io/个人网站)
 - ✉️ Email: s7chiu@ucsd.edu  
 - 🐙 GitHub: [@SeanChiuGit](https://github.com/SeanChiuGit)
 
