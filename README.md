@@ -29,6 +29,7 @@ An online Go game with complete rule logic (ko, suicide, scoring), Firebase mult
 ### ♜ [Blind Chess (UI/Art Design)](https://chesscarnival.netlify.app/)
 A hidden-information chess variant featuring minimal dark theme, hidden king mode, and intuitive UI with art direction.  
 **Difficulty**: 🟩🟩🟩🟩⬜
+
 ---
 
 ## 🤖 How I Use AI Assistance
