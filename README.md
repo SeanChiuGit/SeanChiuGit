@@ -64,11 +64,6 @@ Throughout development, I actively utilized AI tools to:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeanChiuGit&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeanChiuGit&theme=tokyonight&hide_border=true" />
-</p>
 
 
 <p align="center"><em>
