@@ -9,12 +9,12 @@
 
 ## 🚀 Projects
 
-### 🎯 [Wavelength]((https://wavelength-game.netlify.app/))  
+### 🎯 [Wavelength](https://wavelength-game.netlify.app/)  
 A multiplayer guessing game with a semicircle scale and clue system. Firebase-powered sync and smooth UI animation.  
 **Difficulty**: 🟩⬜⬜⬜⬜
 
 
-### 🧠 [TCube]((https://tcube-game.netlify.app/))  
+### 🧠 [TCube](https://tcube-game.netlify.app/)  
 Turn-based strategy with unique fade-out mechanic. Includes AI logic, turn timer, and online real-time sync.  
 **Difficulty**: 🟩🟩🟩🟩⬜
 
@@ -22,11 +22,11 @@ Turn-based strategy with unique fade-out mechanic. Includes AI logic, turn timer
 A Pygame bullet-hell platformer with stamina, boss mechanics, and level timing. Polished UX and game restart logic.  
 **Difficulty**: 🟩🟩⬜⬜⬜
 
-### ⚫⚪ [Go Chess Online](https://github.com/SeanChiuGit/gochessonline)  
+### ⚫⚪ [Go Chess Online](https://gochessonline.netlify.app/) 
 An online Go game with complete rule logic (ko, suicide, scoring), Firebase multiplayer, and undo/replay system.  
 **Difficulty**: 🟩🟩🟩🟩⬜
 
-### ♜ [Blind Chess (UI/Art Design)] (https://chesscarnival.netlify.app/)
+### ♜ [Blind Chess (UI/Art Design)](https://chesscarnival.netlify.app/)
 A hidden-information chess variant featuring minimal dark theme, hidden king mode, and intuitive UI with art direction.  
 **Difficulty**: 🟩🟩🟩🟩⬜
 ---
