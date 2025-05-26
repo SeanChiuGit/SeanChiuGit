@@ -18,7 +18,7 @@ A strategic 3x3 Tic Tac Toe variant with real-time Firebase sync, fading history
 ### 🦖 [Dino Dash](https://github.com/SeanChiuGit/dino-dash)
 Bullet-hell platformer featuring stamina, boss mechanics, and level timers. Built in Pygame, combining reflex and rhythm elements.
 
-### ♟️ [Go Chess Online](https://github.com/SeanChiuGit/gochessonline)
+### ⚫⚪ [Go Chess Online](https://github.com/SeanChiuGit/gochessonline)
 Full-featured Go (围棋) game with Firebase multiplayer support, Ko rules, suicide checks, undo, scoring, and replay system.
 
 ### ♜ Blind Chess (Art & Layout Design)
@@ -41,7 +41,7 @@ A hidden-information chess variant with elegant UI, custom piece rendering, and 
 
 ## 📫 Contact
 
-- 🌐 [Personal Website](https://seanchiugit.github.io/个人网站)
+- 🌐 [Game Portfolio](https://seanchiugit.github.io/个人网站)
 - ✉️ Email: s7chiu@ucsd.edu  
 - 🐙 GitHub: [@SeanChiuGit](https://github.com/SeanChiuGit)
 
