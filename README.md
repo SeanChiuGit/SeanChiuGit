@@ -2,27 +2,44 @@
 <h3 align="center">🎮 Indie Game Developer & UI Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+Worlds,+One+Pixel+at+a+Time.;Gameplay+Design+%7C+Art+Direction+%7C+Full+Stack+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+Worlds,+One+Pixel+at+a+Time.;Gameplay+Design+%7C+Art+Direction+%7C+Dev+Tooling" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
-### 🎯 [Wavelength](https://github.com/SeanChiuGit/wavelength)
-A browser-based multiplayer guessing game with a semicircle frequency scale, clue system, and synchronized visual indicators. Designed with Firebase and web animation.
+### 🎯 [Wavelength](https://github.com/SeanChiuGit/wavelength)  
+A multiplayer guessing game with a semicircle scale and clue system. Firebase-powered sync and smooth UI animation.  
+**Difficulty**: 🟩🟩🟩⬜⬜
 
-### 🧠 [TCube](https://github.com/SeanChiuGit/tcube)
-A strategic 3x3 Tic Tac Toe variant with real-time Firebase sync, fading history logic, and AI opponent. Rule complexity packed in a clean interface.
+### 🧠 [TCube](https://github.com/SeanChiuGit/tcube)  
+Turn-based strategy with unique fade-out mechanic. Includes AI logic, turn timer, and online real-time sync.  
+**Difficulty**: 🟩🟩🟩🟩⬜
 
-### 🦖 [Dino Dash](https://github.com/SeanChiuGit/dino-dash)
-Bullet-hell platformer featuring stamina, boss mechanics, and level timers. Built in Pygame, combining reflex and rhythm elements.
+### 🦖 [Dino Dash](https://github.com/SeanChiuGit/dino-dash)  
+A Pygame bullet-hell platformer with stamina, boss mechanics, and level timing. Polished UX and game restart logic.  
+**Difficulty**: 🟩🟩🟩🟩🟩
 
-### ⚫⚪ [Go Chess Online](https://github.com/SeanChiuGit/gochessonline)
-Full-featured Go (围棋) game with Firebase multiplayer support, Ko rules, suicide checks, undo, scoring, and replay system.
+### ⚫⚪ [Go Chess Online](https://github.com/SeanChiuGit/gochessonline)  
+An online Go game with complete rule logic (ko, suicide, scoring), Firebase multiplayer, and undo/replay system.  
+**Difficulty**: 🟩🟩🟩🟩⬜
 
-### ♜ Blind Chess (Art & Layout Design)
-A hidden-information chess variant with elegant UI, custom piece rendering, and immersive dark-themed layout. Focused on minimal yet intuitive interface design.
+### ♜ Blind Chess (UI/Art Design)  
+A hidden-information chess variant featuring minimal dark theme, hidden king mode, and intuitive UI with art direction.  
+**Difficulty**: 🟩🟩⬜⬜⬜
+
+---
+
+## 🤖 How I Use AI Assistance
+
+Throughout development, I actively utilized AI tools to:
+- ✍️ Refactor and optimize complex game logic (e.g., turn system, bullet patterns)
+- 🎨 Explore UI layout ideas and typography for better visual hierarchy
+- 🧪 Accelerate debugging and logic validation, especially during game state transitions
+- 🎮 Co-design mechanics like fading pieces, predictive boss trails, and spawn balancing
+
+> I believe the best developers know how to **combine creativity with the right tools** — including AI.
 
 ---
 
@@ -41,7 +58,7 @@ A hidden-information chess variant with elegant UI, custom piece rendering, and 
 
 ## 📫 Contact
 
-- 🌐 [Game Portfolio](https://seanchiugit.github.io/个人网站)
+- 🌐 [Personal Website](https://seanchiugit.github.io/个人网站)
 - ✉️ Email: s7chiu@ucsd.edu  
 - 🐙 GitHub: [@SeanChiuGit](https://github.com/SeanChiuGit)
 
