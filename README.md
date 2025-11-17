@@ -1,74 +1,103 @@
 <h1 align="center">Hi 👋, I'm Sean Shiang-Ruei Chiu</h1>
-<h3 align="center">🎮 Indie Game Developer & UI Designer</h3>
+<h3 align="center">Backend • Distributed Systems • AI Engineering • Developer Tools</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+Worlds,+One+Pixel+at+a+Time.;Gameplay+Design+%7C+Art+Direction+%7C+Dev+Tooling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=750&height=60&lines=Building%20reliable%2C%20scalable%20systems.;Creating%20developer%20tools%20that%20automate%20real%20workflows.;AI+Automation%20%7C%20Infrastructure%20%7C%20Chrome%20Extensions%20%7C%20Full-Stack" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Engineering Projects
 
-### 🎯 [Wavelength](https://wavelength-game.netlify.app/)  
-A multiplayer guessing game with a semicircle scale and clue system. Firebase-powered sync and smooth UI animation.  
-**Difficulty**: 🟩⬜⬜⬜⬜
+### 🔧 **Universal AI Cover Letter Generator (Chrome Extension)**
+> A production-ready AI tool that generates personalized cover letter PDFs from any job posting and any resume — using automatic provider detection and PDF.js parsing.
 
-
-### 🧠 [TCube](https://tcube-game.netlify.app/)  
-Turn-based strategy with unique fade-out mechanic. Includes AI logic, turn timer, and online real-time sync.  
-**Difficulty**: 🟩🟩🟩🟩⬜
-
-### 🦖 [Dino Dash](https://seanchiuitch.itch.io/dinodash)
-A Pygame bullet-hell platformer with stamina, boss mechanics, and level timing. Polished UX and game restart logic.  
-**Difficulty**: 🟩🟩⬜⬜⬜
-
-### ⚫⚪ [Go Chess Online](https://gochessonline.netlify.app/) 
-An online Go game with complete rule logic (ko, suicide, scoring), Firebase multiplayer, and undo/replay system.  
-**Difficulty**: 🟩🟩🟩🟩⬜
-
-### ♜ [Blind Chess (UI/Art Design)](https://chesscarnival.netlify.app/)
-A hidden-information chess variant featuring minimal dark theme, hidden king mode, and intuitive UI with art direction.  
-**Difficulty**: 🟩🟩🟩🟩⬜
-
----
-
-## 🤖 How I Use AI Assistance
-
-Throughout development, I actively utilized AI tools to:
-- ✍️ Refactor and optimize complex game logic (e.g., turn system, bullet patterns)
-- 🎨 Explore UI layout ideas and typography for better visual hierarchy
-- 🧪 Accelerate debugging and logic validation, especially during game state transitions
-- 🎮 Co-design mechanics like fading pieces, predictive boss trails, and spawn balancing
-
-> I believe the best developers know how to **combine creativity with the right tools** — including AI.
-
----
-
-## 🎨 Skills & Stack
+- Auto-detects API provider from key (OpenAI, Groq, Anthropic, Gemini, etc.)  
+- Parses PDF/TXT resumes → structured JSON  
+- Generates professional US-letter PDFs (jsPDF)  
+- Uses `selectionText` (no content scripts → works everywhere)  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="./generatorHowToUse.gif" width="600"/>
 </p>
+
+---
+
+### ⚡ **Realtime Multiplayer Infrastructure**  
+**React · Firebase RTDB · WebSockets · OpenAI API · SQL**
+
+Event-driven architecture for multiplayer puzzle & strategy games.  
+- Fault-tolerant sync  
+- Optimized Firebase schema  
+- Adaptive difficulty via AI  
+- 20%–30% latency reduction
+
+🔗 https://github.com/SeanChiuGit/Realtime-Multiplayer-Infrastructure
+
+---
+
+### ♜ **AI-Powered Board Game Engines (Go Chess / T-Cube / Gomoku)**  
+**Python · C/C++ · Minimax + Alpha-Beta · TensorFlow Self-Play · Profiling**
+
+- Custom rule engines  
+- Search-based AI  
+- Reinforcement self-play framework  
+- Multithreaded simulation pipeline (3× speedup)
+
+🔗 https://github.com/SeanChiuGit/tcube
+
+---
+
+### 📊 **Verve AI: Backend Automation & Data Infrastructure**  
+**Python · Airflow · Pandas · Search Console API · Distributed Scripts**
+
+(From internship — open-source safe description version)
+
+- Automated backend workflows across 2000+ endpoints  
+- Hourly ETL validation pipelines  
+- Distributed indexing + async scheduling  
+- Real-time dashboards for 8+ internal teams
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+## 🧠 What I Like to Build
+
+- Distributed backend systems  
+- AI-powered developer tools  
+- Multiplayer infrastructure  
+- Chrome extensions  
+- Automation pipelines  
+- Real-time or state-heavy applications  
+- Compilers / interpreters / engines  
+
+> I enjoy solving **high-complexity engineering problems** by mixing  
+> systems fundamentals, automation, and AI-assisted development.
 
 ---
 
 ## 📫 Contact
 
-- 🌐 [Game Portfolio Site](https://seanchiugit.github.io/个人网站)
-- ✉️ Email: s7chiu@ucsd.edu  
-- 🐙 GitHub: [@SeanChiuGit](https://github.com/SeanChiuGit)
+- 🐙 GitHub: **[@SeanChiuGit](https://github.com/SeanChiuGit)**
+- 🌐 Portfolio: **https://seanchiugit.github.io**
+- ✉️ Email: **s7chiu@ucsd.edu**
 
 ---
 
-
-
 <p align="center"><em>
-🧠 "You must look at the problem from a different angle."<br>
-— <strong>The Witness</strong><br><br>
-🎮 Sean Shiang-Ruei Chiu · Indie Game Explorer
+🌟 “Good engineers solve problems.  
+Great engineers design tools that solve the problems for them.”  
 </em></p>
