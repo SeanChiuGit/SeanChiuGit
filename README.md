@@ -2,7 +2,7 @@
 <h3 align="center">Backend • Distributed Systems • AI Engineering • Developer Tools</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=750&height=60&lines=Building%20reliable%2C%20scalable%20systems.;Creating%20developer%20tools%20that%20automate%20real%20workflows.;AI+Automation%20%7C%20Infrastructure%20%7C%20Chrome%20Extensions%20%7C%20Full-Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=750&height=60&lines=Building%20reliable%2C%20scalable%20systems.;Creating%20developer%20tools%20that%20automate%20real%20workflows.;AI+Automation%20%7C%20Infrastructure%207C%20Full-Stack" />
 </p>
 
 ---
