@@ -50,8 +50,6 @@ Event-driven architecture for multiplayer puzzle & strategy games.
 ### 📊 **Verve AI: Backend Automation & Data Infrastructure**  
 **Python · Airflow · Pandas · Search Console API · Distributed Scripts**
 
-(From internship — open-source safe description version)
-
 - Automated backend workflows across 2000+ endpoints  
 - Hourly ETL validation pipelines  
 - Distributed indexing + async scheduling  
