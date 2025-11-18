@@ -17,9 +17,8 @@
 - Generates professional US-letter PDFs (jsPDF)  
 - Uses `selectionText` (no content scripts → works everywhere)  
 
-<p align="center">
-  <img src="./generatorHowToUse.gif" width="600"/>
-</p>
+
+🔗https://github.com/SeanChiuGit/CoverLetterGenerator
 
 ---
 
